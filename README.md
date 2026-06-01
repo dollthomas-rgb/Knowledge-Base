@@ -17,11 +17,14 @@ Beide Welten liegen konfliktfrei nebeneinander.
 | Ordner | Inhalt |
 | --- | --- |
 | [`00-Start/Startseite.md`](00-Start/Startseite.md) | Zentrale Einstiegsseite (Map of Content) |
-| [`Wissen/FMEA-Engineering/`](Wissen/FMEA-Engineering/) | FMEA, Qualität, technische Prozesse |
+| [`Wissen/FMEA-Engineering/`](Wissen/FMEA-Engineering/) | Ausführliches FMEA-Fachwissen (Grundlagen, AIAG-VDA, DFMEA, PFMEA, Bewertung, MSR, Moderation, Glossar) |
+| [`Wissen/Schaeffler/`](Wissen/Schaeffler/) | Schaeffler – öffentlicher Überblick + Platzhalter für Internes |
+| [`Wissen/Meine-Faehigkeiten/`](Wissen/Meine-Faehigkeiten/) | Eigene Kompetenzen (FMEA, Werkzeuge) |
+| [`Wissen/Claude-Code/`](Wissen/Claude-Code/) | Skills-Referenz aller bekannten Claude-Skills |
 | [`Wissen/Software-Programmierung/`](Wissen/Software-Programmierung/) | Code-Snippets, Architektur, Tooling, Sprachen |
 | [`Wissen/Persönliches-Wissen/`](Wissen/Persönliches-Wissen/) | Allgemeine Notizen, Lernmaterial, Referenzen |
 | [`Vorlagen/`](Vorlagen/) | Kopiervorlagen für neue Notizen und Skills |
-| [`.claude/skills/`](.claude/skills/) | Echte Claude-Code-Skills (`SKILL.md`) |
+| [`.claude/skills/`](.claude/skills/) | Echte Claude-Code-Skills: `fmea-moderation`, `pfmea-erstellen`, `ap-bewertung` |
 
 ## Konventionen
 

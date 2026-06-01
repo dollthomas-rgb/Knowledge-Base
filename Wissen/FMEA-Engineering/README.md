@@ -1,15 +1,23 @@
 # FMEA & Engineering
 
-Wissen rund um **FMEA** (Fehlermöglichkeits- und Einflussanalyse), Qualitätsmethoden und
-technische Prozesse.
+Ausführliches Fachwissen rund um die **FMEA** (Fehlermöglichkeits- und Einflussanalyse,
+engl. *Failure Mode and Effects Analysis*), Qualitätsmethoden und technische Prozesse.
 
-## Was hierher gehört
+## Inhalt (Wissensnotizen)
 
-- FMEA-Methodik (Design-FMEA, Prozess-FMEA, System-FMEA)
-- Bewertungslogik (B/A/E, RPZ bzw. AP nach VDA/AIAG)
-- Vorlagen, Checklisten, Best Practices
-- Qualitäts- und Engineering-Prozesse, Normen, Referenzen
+1. [[FMEA-Grundlagen]] – Was ist FMEA, Ziele, Nutzen, Arten, Einordnung
+2. [[AIAG-VDA-7-Schritte]] – Die harmonisierte 7-Schritte-Methodik
+3. [[DFMEA]] – Design-/Konstruktions-FMEA im Detail
+4. [[PFMEA]] – Prozess-FMEA im Detail
+5. [[Risikobewertung-S-O-D-AP]] – Bewertung (Schwere, Auftreten, Entdeckung) & Aufgabenpriorität
+6. [[FMEA-MSR]] – Monitoring & System Response (Ergänzungs-FMEA)
+7. [[FMEA-Moderation]] – Workshops vorbereiten und moderieren
+8. [[FMEA-Glossar]] – Begriffe und Abkürzungen
 
-## Einstieg
+## Hinweis
 
-Verlinkt von [[Startseite]]. Neue Notizen mit der [[Notiz-Vorlage]] anlegen.
+Diese Notizen beschreiben **allgemeingültige, methodische Grundlagen** (Stand: AIAG-VDA
+FMEA-Handbuch). Unternehmensspezifische Bewertungstabellen und Vorgaben (z. B. bei
+[[Schaeffler-Ueberblick|Schaeffler]]) können davon abweichen und sind separat zu pflegen.
+
+Einstieg: [[Startseite]] · Neue Notiz: [[Notiz-Vorlage]]

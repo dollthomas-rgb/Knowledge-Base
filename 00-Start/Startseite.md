@@ -8,11 +8,13 @@ Bereiche. Verlinke neue Notizen mit `[[Wikilinks]]`, damit der Graph zusammenhä
 - [[FMEA-Engineering]] – FMEA, Qualität, technische Prozesse
 - [[Software-Programmierung]] – Code-Snippets, Architektur, Tooling, Sprachen
 - [[Persönliches-Wissen]] – Allgemeine Notizen, Lernmaterial, Referenzen
+- [[Claude-Code]] – Wissen zu Claude Code, inkl. [[Skills-Referenz]]
 
 ## Skills
 
 - Claude-Code-Skills liegen unter `.claude/skills/` und werden automatisch geladen.
   Siehe `.claude/skills/README.md` und die `[[Skill-Vorlage]]`.
+- Katalog aller bekannten Skills dieser Umgebung: [[Skills-Referenz]].
 
 ## Vorlagen
 

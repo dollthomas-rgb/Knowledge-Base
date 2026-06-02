@@ -1,0 +1,22 @@
+# Obsidian – Arbeitsplatz- und Cache-Dateien (gerätespezifisch, nicht versionieren)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+
+# Obsidian-Papierkorb
+.trash/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Temporär
+*.tmp
+*~

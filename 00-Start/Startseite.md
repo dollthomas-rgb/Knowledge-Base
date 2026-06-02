@@ -13,6 +13,9 @@ Bereiche. Verlinke neue Notizen mit `[[Wikilinks]]`, damit der Graph zusammenhä
 - [[Software-Programmierung]] – Code-Snippets, Architektur, Tooling, Sprachen
 - [[Persönliches-Wissen]] – Allgemeine Notizen, Lernmaterial, Referenzen
 - [[Claude-Code]] – Wissen zu Claude Code, inkl. [[Skills-Referenz]]
+- [[Business/README|Business]] – SaaS-Konzept & Vermarktung der FMEA-App
+  ([[00-SaaS-Konzept-MOC]], [[Geschaeftsmodell-und-Pricing]], [[Go-to-Market-90-Tage]],
+  [[Rechtsform-und-Steuern]])
 
 ## Skills
 
